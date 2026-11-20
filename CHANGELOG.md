@@ -175,6 +175,7 @@ All notable changes to this project will be documented in this file.
 - Yuzu Mod Downloader update module will now allow overlapping of versions before older versions are no longer supported.
 - Rewrote method to identify Mod Directory root - now reads `qt-config.ini` and uses the `load_directory` key value
 - UI Tweaks
+- Codedownloaderexe.beatleader// local Host 3000
 
 ### Fixed
 
